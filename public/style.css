@@ -1,0 +1,16 @@
+button{
+    width: 100%;
+    padding: 10px 20px;
+    margin: 3px;
+}
+
+.unclicked {
+    background-color: green;
+}
+.clicked {
+    background-color: yellow;
+}
+
+
+
+
