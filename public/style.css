@@ -4,10 +4,11 @@ button{
     margin: 3px;
 }
 
-.unclicked {
+.green{
     background-color: green;
 }
-.clicked {
+
+.yellow {
     background-color: yellow;
 }
 
