@@ -8,7 +8,7 @@ const port = process.env.PORT || 3000;
 
 const publicDir = path.join(__dirname, "../public")
 
-app.set("view engine", "html")
+app.set("view engine", "hbs")
 app.use(express.static(publicDir))
 
 app.get("", (req, res) => {
